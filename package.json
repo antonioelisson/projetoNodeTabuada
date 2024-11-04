@@ -1,0 +1,21 @@
+{
+  "name": "projetonodetabuada",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de uma aplicação web - Tabuada interativa - como atividade avaliativa 1 de Front End.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioelisson/projetoNodeTabuada.git"
+  },
+  "author": "Elisson Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioelisson/projetoNodeTabuada/issues"
+  },
+  "homepage": "https://github.com/antonioelisson/projetoNodeTabuada#readme"
+}
