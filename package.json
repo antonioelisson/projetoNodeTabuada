@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Desenvolvimento de uma aplicação web - Tabuada interativa - como atividade avaliativa 1 de Front End.",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/antonioelisson/projetoNodeTabuada/issues"
   },
-  "homepage": "https://github.com/antonioelisson/projetoNodeTabuada#readme"
+  "homepage": "https://github.com/antonioelisson/projetoNodeTabuada#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
