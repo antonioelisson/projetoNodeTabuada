@@ -18,7 +18,7 @@ function paginaInicial(requisicao, resposta){
                         <h2>Digite o numero que deseja multiplicar e um limite para finalizar a multiplicação:</h2>
                         <h3>Digite como o modelo para calcular: http://localhost:3000/calcular?numero=1&limite=25</h3>
                     </body>`);
-}
+} 
 
 function calcular(requisicao, resposta){
     const numero = parseInt(requisicao.query.numero);
